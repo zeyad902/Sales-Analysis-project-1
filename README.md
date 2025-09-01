@@ -14,8 +14,7 @@ An interactive **Power BI dashboard** was also created to provide additional bus
 - `data/` → Contains the dataset used in the analysis (sales.csv).  
 - `powerbi/` → Power BI dashboard file (`sales progect 2025.pbix`) or link to hosted file (https://drive.google.com/file/d/1erWWUtIPgi51mqQGU6LA0E0ul409d2Hq/view?usp=sharing).
 ## Dashboard Preview
-![Dashboard](..assets/dashboard.png)
-
+![Dashboard](assets/dashboard.png)
 
 
 ## Key Insights
