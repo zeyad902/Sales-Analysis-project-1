@@ -15,5 +15,7 @@ An interactive **Power BI dashboard** was also created to provide business insig
 
 ## Key Insights
 -📈 California is the top-performing state and should be the main focus for business expansion.
+
 -📊 The Wholesale channel generates the highest revenue among all channels.
+
 -🔎 Product 26 is the best-selling product, contributing $122M in revenue.
