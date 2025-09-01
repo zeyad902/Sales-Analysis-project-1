@@ -14,7 +14,7 @@ An interactive **Power BI dashboard** was also created to provide additional bus
 - `data/` → Contains the dataset used in the analysis (sales.csv).  
 - `powerbi/` → You can download the dashboard from this link and try it --> (https://drive.google.com/file/d/1erWWUtIPgi51mqQGU6LA0E0ul409d2Hq/view?usp=sharing).
 ## Dashboard Preview
-![Dashboard](assets/dashboard.png)
+Some images for dashboard --> ![Dashboard](assets/dashboard.png)
 
 
 ## Key Insights
